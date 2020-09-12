@@ -2,7 +2,10 @@
 ### Hi there, I'm David 👋
 [![](https://i.imgur.com/9VeEtSR.png)](https://davidmoll.net)
 
-[![](https://raw.githubusercontent.com/Akashic101/Akashic101/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Akashic101/Akashic101/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/Akashic101/Akashic101/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 ```javascript
 const david = {
