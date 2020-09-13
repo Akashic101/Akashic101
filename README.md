@@ -13,13 +13,21 @@ const david = {
     qualifications: {
         Gamedesign: {
             name: 'Gamedesign',
-            date: '01.10.2015 - 11.09.2018',
-            place: 'bib International College'
+            degree: {
+                Deutsch: 'Staatlich geprüfter Gestaltungstechnischer Assistent, Schwerpunkt Gamedesign',
+                English: 
+            },
+            place: 'bib International College',
+            date: '01.10.2015 - 11.09.2018
         },
         Gamedevelopment: {
             name: 'Gamedevelopment',
-            date: '01.10.2018 - 11.09.2020',
-            place: 'bib International College'
+            degree: {
+                Deutsch: 'Staatlich geprüfter Informatiker Multimedia, Schwerpunkt Game Development',
+                English: 
+            },
+            place: 'bib International College',
+            date: '01.10.2018 - 11.09.2020'
         }
     },
     other_talents: {
