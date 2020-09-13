@@ -9,7 +9,7 @@
 
 ```javascript
 const david = {
-    code: [Javascript, C++, Java, SQL, PL / SQL, HTML, CSS, PHP],
+    code: [Javascript, C++, Java, SQL, PL / SQL, HTML, CSS, PHP, Markdown],
     qualifications: {
         Gamedesign: {
             name: 'Gamedesign',
