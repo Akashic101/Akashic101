@@ -62,6 +62,12 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
 
 ## Where to find me
 
-LinkedIn  
-Etsy  
-RSS  
+<a href="https://www.linkedin.com/in/david-moll-3371511a1/">
+  <img src="./graphics/linkedin.svg" />
+</a>
+<a href="https://www.etsy.com/shop/akashicartanddesign">
+  <img src="./graphics/etsy.svg" />
+</a>
+<a href="https://www.blog.davidmoll.net/feed.xml">
+  <img src="./graphics/rss.svg" />
+</a>
