@@ -43,7 +43,7 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
         </tr>
         <tr>
             <td>Blog</td>
-            <td><a href="https://blog.davidmoll.net">Flag Guesser</a></td>
+            <td><a href="https://blog.davidmoll.net">David Moll's blog</a></td>
             <td><a href="https://github.com/akashic101/blog">https://github.com/akashic101/blog</a></td>
         </tr>
     </tbody>
