@@ -74,4 +74,8 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
 ## My latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [All features of this blog](https://blog.davidmoll.net/blog/2024-01-06-All-Features/)
+- [100% - Creating a complete RSS Feed](https://blog.davidmoll.net/blog/2024-01-05-100-RSS/)
+- [100% - Generating really small images](https://blog.davidmoll.net/blog/2024-01-04-100-Images/)
+- [Special Olympics World Games Berlin 2023](https://blog.davidmoll.net/blog/2023-12-23-Special-Olympics-Berlin-2023/)
 <!-- BLOG-POST-LIST:END -->
