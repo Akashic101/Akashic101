@@ -73,10 +73,8 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
 
 ## My latest posts
 
-<ul>
-<!-- BLOG-POST-LIST:START --><li>[All features of this blog](https://blog.davidmoll.net/blog/2024-01-06-All-Features/) - &lt;img align=&quot;left&quot; hspace=&quot;5&quot; src=&quot;https://blog.davidmoll.net/assets/images/2024-01-06-All-Features/cover.png&quot;/&gt;
-        All the neat little features this blog has to offer</li><li>[100% - Creating a complete RSS Feed](https://blog.davidmoll.net/blog/2024-01-05-100-RSS/) - &lt;img align=&quot;left&quot; hspace=&quot;5&quot; src=&quot;https://blog.davidmoll.net/assets/images/2024-01-05-100-RSS/cover.png&quot;/&gt;
-        How I created a complete RSS-Feed</li><li>[100% - Generating really small images](https://blog.davidmoll.net/blog/2024-01-04-100-Images/) - &lt;img align=&quot;left&quot; hspace=&quot;5&quot; src=&quot;https://blog.davidmoll.net/assets/images/2024-01-04-100-Images/cover.png&quot;/&gt;
-        How I create the images on my website and make them as small as possible</li><li>[Special Olympics World Games Berlin 2023](https://blog.davidmoll.net/blog/2023-12-23-Special-Olympics-Berlin-2023/) - &lt;img align=&quot;left&quot; hspace=&quot;5&quot; src=&quot;https://blog.davidmoll.net/assets/images/2023-12-23-Special-Olympics-Berlin-2023/cover.png&quot;/&gt;
-        My experience volunteering at the Special Olympics World Games Berlin 2023</li><!-- BLOG-POST-LIST:END -->
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+  <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+</table>
 </ul>
