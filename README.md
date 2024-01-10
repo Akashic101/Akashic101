@@ -73,4 +73,5 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
 
 ## My latest posts
 
-<!-- RSS_FEED_SECTION_START -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
