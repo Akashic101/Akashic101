@@ -75,7 +75,8 @@
     "xmlbuilder": "^11.0.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update-readme": "node ./update-readme.js"
   },
   "keywords": [],
   "author": "",
