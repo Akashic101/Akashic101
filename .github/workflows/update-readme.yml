@@ -6,20 +6,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-readme-with-blog:
+    name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          node-version: '14'
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Run script to update README
-        run: npm run update-readme
+          max_post_count: "4"
+          feed_list: "https://blog.davidmoll.net/feed.xml"
