@@ -4,7 +4,6 @@ const Parser = require('rss-parser');
 async function updateReadme() {
   const parser = new Parser();
   const feed = await parser.parseURL('https://blog.davidmoll.net/feed.xml');
-  console.log(feed.items)
 
   const latestArticles = feed.items.slice(0, 3).map(item => `<li>
   <a href="${item.link}">${item.title}</a><br><i>${item.content}</i>
