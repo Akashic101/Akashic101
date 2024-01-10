@@ -1,4 +1,3 @@
-
 # Hi there, I'm David 👋
 
 I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./graphics/germany.png" alt="flag of Germany" width="12"/> **Aachen, Germany** working for [xapling GmbH](https://xapling.de).
@@ -64,7 +63,7 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
     </thead>
     <tbody>
         <tr>
-            <td>ACC Drive</td>
+            <td>ACC Drive (WIP)</td>
             <td><a href="https://www2.accdrive.de/">ACC Drive</a></td>
             <td><img src="graphics/javascript.svg"> <img src="graphics/react.svg"> <img src="graphics/mantine.svg"> <img src="graphics/git.svg"> <img src="graphics/cloudflaretunnels.svg"> <img src="graphics/vscode.svg"> <img src="graphics/adobephotoshop.svg"> </td>
             <td>Concept & Design, Frontend-development</td>
@@ -74,23 +73,4 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
 
 ## My latest posts
 
-<ul>
-    <li>
-        <a href="https://blog.davidmoll.net/blog/2023-12-23-2023-12-23-Special-Olympics-Berlin-2023">Special Olympics Berlin 2023</a><br><i>My experience volunteering at the Special Olympics World Games Berlin 2023</i>
-    </li>
-    <li>
-        <a href="https://blog.davidmoll.net/blog/2023-12-21-Hello-World">Hello World</a><br><i>How I created my own small blog, what I am planning on doing with it and how you can run your own</i>
-    </li>
-</ul>
-
-## Where to find me
-
-<a href="https://www.linkedin.com/in/david-moll-3371511a1/">
-  <img src="./graphics/linkedin.svg" />
-</a>
-<a href="https://www.etsy.com/shop/akashicartanddesign">
-  <img src="./graphics/etsy.svg" />
-</a>
-<a href="https://www.blog.davidmoll.net/feed.xml">
-  <img src="./graphics/rss.svg" />
-</a>
+<!-- RSS_FEED_SECTION_START -->
