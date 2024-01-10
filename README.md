@@ -72,6 +72,7 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
 </table>
 
 ## My latest posts
+*Automatically updated once per day via Github Actions*
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
