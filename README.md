@@ -25,7 +25,6 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
 ![Adobe After Effects](graphics/adobeaftereffects.svg) ![Adobe Photoshop](graphics/adobephotoshop.svg) ![Adobe Premiere Pro](graphics/adobepremierepro.svg) ![Figma](graphics/figma.svg) ![Filezilla](graphics/filezilla.svg) ![github](graphics/github.svg) ![gitlab](graphics/gitlab.svg) ![Jira](graphics/jira.svg) ![Excel](graphics/microsoftexcel.svg) ![Teams](graphics/microsoftteams.svg) ![Word](graphics/microsoftword.svg) ![Miro](graphics/miro.svg) ![OBS](graphics/obsstudio.svg) ![Portainer](graphics/portainer.svg) ![Postman](graphics/postman.svg) ![Slack](graphics/slack.svg) ![VS Code](graphics/vscode.svg) ![Wordpress](graphics/wordpress.svg)
 
 ## Open Source projects
-<i>If any websites are offline then I am working on my server</i>
 <table>
     <thead align="center">
     <tr>
