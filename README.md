@@ -38,7 +38,7 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
         <tr>
             <td>Flag Guesser</td>
             <td><a href="https://flags.davidmoll.net">Flag Guesser</a></td>
-            <td><a href="https://github.com/akashic101/flagguesser">https://github.com/akashic101/flagguesser</a></td>
+            <td><a href="https://github.com/akashic101/flag-guesser">https://github.com/akashic101/flagguesser</a></td>
             <td><img src="graphics/typescript.svg"> <img src="graphics/react.svg"> <img src="graphics/mantine.svg"> <img src="graphics/i18next.svg"> <img src="graphics/git.svg"> <img src="graphics/ubuntu.svg"> <img src="graphics/cloudflaretunnels.svg"> <img src="graphics/docker.svg"> <img src="graphics/vscode.svg"> <img src="graphics/git.svg"> </td>
         </tr>
         <tr>
