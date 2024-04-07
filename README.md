@@ -75,6 +75,6 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>Track and display uptime of your blog</td><td>https://blog.davidmoll.net/blog/2024-01-21-Track-and-display-uptime-of-your-blog/</td></tr><tr><td>default apps</td><td>https://blog.davidmoll.net/blog/2024-01-19-default-apps/</td></tr><tr><td>How to automatically generate a new boilerplate-post with inquirer</td><td>https://blog.davidmoll.net/blog/2024-01-15-How-to-automatically-generate-a-new-boilerplate-post-with-inquirer/</td></tr><tr><td>How to host a 11ty-site on a Raspberry Pi</td><td>https://blog.davidmoll.net/blog/2024-01-14-How-to-host-a-blog/</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>A small collection of some great 404 pages</td><td>https://blog.davidmoll.net/blog/2024-04-04-A-small-collection-of-some-great-404-pages/</td></tr><tr><td>Track and display uptime of your blog</td><td>https://blog.davidmoll.net/blog/2024-01-21-Track-and-display-uptime-of-your-blog/</td></tr><tr><td>default apps</td><td>https://blog.davidmoll.net/blog/2024-01-19-default-apps/</td></tr><tr><td>How to automatically generate a new boilerplate-post with inquirer</td><td>https://blog.davidmoll.net/blog/2024-01-15-How-to-automatically-generate-a-new-boilerplate-post-with-inquirer/</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 </ul>
