@@ -16,3 +16,6 @@ jobs:
           max_post_count: "4"
           feed_list: "https://blog.davidmoll.net/feed.xml"
           template: <tr><td>$title</td><td>$url</td></tr>
+    - name: Debugging with tmate
+      uses: mxschmitt/action-tmate@v3.18
+            
