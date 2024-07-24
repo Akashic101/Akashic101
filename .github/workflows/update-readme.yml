@@ -10,12 +10,15 @@ jobs:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README with blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
           feed_list: "https://blog.davidmoll.net/feed.xml"
-          template: <tr><td>$title</td><td>$url</td></tr>
-    - name: Debugging with tmate
-      uses: mxschmitt/action-tmate@v3.18
-            
+          template: "<tr><td>$title</td><td>$url</td></tr>"
+
+      - name: Debugging with tmate
+        uses: mxschmitt/action-tmate@v3.18
