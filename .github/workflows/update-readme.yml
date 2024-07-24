@@ -13,6 +13,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Debugging with tmate
+        uses: mxschmitt/action-tmate@v3.18
+
       - name: Update README with blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -20,5 +23,4 @@ jobs:
           feed_list: "https://blog.davidmoll.net/feed.xml"
           template: "<tr><td>$title</td><td>$url</td></tr>"
 
-      - name: Debugging with tmate
-        uses: mxschmitt/action-tmate@v3.18
+
