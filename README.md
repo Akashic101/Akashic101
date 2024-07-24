@@ -75,6 +75,6 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>How to optimize your website for print</td><td>https://blog.davidmoll.net/blog/2024-04-30-How-to-optimize-your-website-for-print/</td></tr><tr><td>The worst password-field I have ever seen</td><td>https://blog.davidmoll.net/blog/2024-04-21-The-worst-password-field-I-have-ever-seen/</td></tr><tr><td>A small collection of some great 404 pages</td><td>https://blog.davidmoll.net/blog/2024-04-04-A-small-collection-of-some-great-404-pages/</td></tr><tr><td>Track and display uptime of your blog</td><td>https://blog.davidmoll.net/blog/2024-01-21-Track-and-display-uptime-of-your-blog/</td></tr><!-- BLOG-POST-LIST:END -->
+  <!--START_SECTION:feed--><tr><td>How to optimize your website for print</td><td>https://blog.davidmoll.net/blog/2024-04-30-How-to-optimize-your-website-for-print/</td></tr><tr><td>The worst password-field I have ever seen</td><td>https://blog.davidmoll.net/blog/2024-04-21-The-worst-password-field-I-have-ever-seen/</td></tr><tr><td>A small collection of some great 404 pages</td><td>https://blog.davidmoll.net/blog/2024-04-04-A-small-collection-of-some-great-404-pages/</td></tr><tr><td>Track and display uptime of your blog</td><td>https://blog.davidmoll.net/blog/2024-01-21-Track-and-display-uptime-of-your-blog/</td></tr><!--END_SECTION:feed-->
 </table>
 </ul>
