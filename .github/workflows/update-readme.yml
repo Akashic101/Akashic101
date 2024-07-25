@@ -3,6 +3,7 @@ name: Daily Update
 on:
   schedule:
     - cron: "0 0 * * *" # This schedules the job to run daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
   update-gallery:
