@@ -91,17 +91,12 @@ _Automatically updated once per day via Github Actions_
             <a href="https://blog.davidmoll.net/blog/2024-04-30-How-to-optimize-your-website-for-print/"><img src="https://blog.davidmoll.net/assets/images/2024-04-30-How-to-optimize-your-website-for-print//cover.png" alt="How to optimize your website for print" /></a>
             <p><b><a href="https://blog.davidmoll.net/blog/2024-04-30-How-to-optimize-your-website-for-print/">How to optimize your website for print</a></b></p>
             <p>Neat little tricks on how to make your website looking better for print</p>
-            <img src="https://img.shields.io/badge/posts-blue?style=flat-square" alt="posts" />  <img src="https://img.shields.io/badge/web_development-blue?style=flat-square" alt="web-development" />  
+            <img src="https://img.shields.io/badge/posts-blue?style=flat-square" alt="posts" />  <img src="https://img.shields.io/badge/web-development-blue?style=flat-square" alt="web-development" />  
           </td><td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
             <a href="https://blog.davidmoll.net/blog/2024-04-21-The-worst-password-field-I-have-ever-seen/"><img src="https://blog.davidmoll.net/assets/images/2024-04-21-The-worst-password-field-I-have-ever-seen//cover.png" alt="The worst password-field I have ever seen" /></a>
             <p><b><a href="https://blog.davidmoll.net/blog/2024-04-21-The-worst-password-field-I-have-ever-seen/">The worst password-field I have ever seen</a></b></p>
             <p>how a very badly configured password-field damaged my user-experience</p>
-            <img src="https://img.shields.io/badge/posts-blue?style=flat-square" alt="posts" />  <img src="https://img.shields.io/badge/web_development-blue?style=flat-square" alt="web-development" />  
-          </td><td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-            <a href="https://blog.davidmoll.net/blog/2024-04-04-A-small-collection-of-some-great-404-pages/"><img src="https://blog.davidmoll.net/assets/images/2024-04-04-A-small-collection-of-some-great-404-pages//cover.png" alt="A small collection of some great 404 pages" /></a>
-            <p><b><a href="https://blog.davidmoll.net/blog/2024-04-04-A-small-collection-of-some-great-404-pages/">A small collection of some great 404 pages</a></b></p>
-            <p>A list of great examples of entertaining and unique 404-pages</p>
-            <img src="https://img.shields.io/badge/posts-blue?style=flat-square" alt="posts" />  
+            <img src="https://img.shields.io/badge/posts-blue?style=flat-square" alt="posts" />  <img src="https://img.shields.io/badge/web-development-blue?style=flat-square" alt="web-development" />  
           </td>
       </tr>
       <tr>

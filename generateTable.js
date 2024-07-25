@@ -1,20 +1,45 @@
 const fs = require("fs");
 const Parser = require("rss-parser");
+const axios = require("axios");
 const parser = new Parser();
 
 const feedUrl = "https://blog.davidmoll.net/feed.xml";
+const feedPath = "./data/feed.xml";
+
+async function downloadFeed() {
+  try {
+    // Fetch the RSS feed from the URL
+    const response = await axios.get(feedUrl);
+    // Ensure the data directory exists
+    if (!fs.existsSync("./data")) {
+      fs.mkdirSync("./data");
+    }
+    // Save the RSS feed to a file
+    fs.writeFileSync(feedPath, response.data);
+    console.log("RSS feed downloaded successfully!");
+  } catch (error) {
+    console.error("Error downloading RSS feed:", error);
+    throw error; // Rethrow to stop further execution if download fails
+  }
+}
 
 async function generateGallery() {
   try {
-    const feed = await parser.parseURL(feedUrl);
+    // Download the RSS feed
+    await downloadFeed();
+
+    // Read the RSS file from the local path
+    const feedXml = fs.readFileSync(feedPath, "utf8");
+    const feed = await parser.parseString(feedXml);
     const posts = feed.items.slice(0, 4);
 
     const generateBadge = (label) => {
       const baseUrl = "https://img.shields.io/badge/";
       const style = "flat-square";
-      const replacedLabel = label.replace("-", "_");
 
-      return `${baseUrl}${replacedLabel}-blue?style=${style}`;
+      // URL-encode the label to handle special characters
+      const encodedLabel = encodeURIComponent(label);
+      return `${baseUrl}${encodedLabel}-blue?style=${style}`;
     };
 
     const htmlContent = `
@@ -33,7 +58,6 @@ async function generateGallery() {
             const badges = categories
               .map((category) => {
                 const badgeUrl = generateBadge(category);
-                console.log(badgeUrl);
                 return `<img src="${badgeUrl}" alt="${category}" /> `;
               })
               .join(" ");
