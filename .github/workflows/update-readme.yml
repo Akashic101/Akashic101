@@ -1,18 +1,34 @@
-name: Update README
+name: Daily Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: "0 0 * * *" # This schedules the job to run daily at midnight UTC
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repos README with latest blog posts
+  update-gallery:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: JasonEtco/rss-to-readme@v1
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
-          feed-url: https://blog.davidmoll.net/feed.xml
-          readme-section: feed
-          template: <tr><td>{{ title }}</td><td>{{ link }}</td></tr>
+          node-version: "16" # Specify the Node.js version
+
+      - name: Install dependencies
+        run: npm install # This installs dependencies listed in your package.json
+
+      - name: Run update script
+        run: node ./generateTable.js # Replace with the path to your script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This is automatically provided for GitHub Actions
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m 'Update README with new gallery'
+          git push

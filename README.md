@@ -25,6 +25,7 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
 ![Adobe After Effects](graphics/adobeaftereffects.svg) ![Adobe Photoshop](graphics/adobephotoshop.svg) ![Adobe Premiere Pro](graphics/adobepremierepro.svg) ![Figma](graphics/figma.svg) ![Filezilla](graphics/filezilla.svg) ![github](graphics/github.svg) ![gitlab](graphics/gitlab.svg) ![Jira](graphics/jira.svg) ![Excel](graphics/microsoftexcel.svg) ![Teams](graphics/microsoftteams.svg) ![Word](graphics/microsoftword.svg) ![Miro](graphics/miro.svg) ![OBS](graphics/obsstudio.svg) ![Portainer](graphics/portainer.svg) ![Postman](graphics/postman.svg) ![Slack](graphics/slack.svg) ![VS Code](graphics/vscode.svg) ![Wordpress](graphics/wordpress.svg)
 
 ## Open Source projects
+
 <table>
     <thead align="center">
     <tr>
@@ -51,6 +52,7 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
 </table>
 
 ## Other projects
+
 <table>
     <thead align="center">
     <tr>
@@ -71,10 +73,40 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
 </table>
 
 ## My latest posts
-*Automatically updated once per day via Github Actions*
 
-<table>
-  <tr><th>Title</th><th>Link</th></tr>
-  <!--START_SECTION:feed--><tr><td>How to optimize your website for print</td><td>https://blog.davidmoll.net/blog/2024-04-30-How-to-optimize-your-website-for-print/</td></tr><tr><td>The worst password-field I have ever seen</td><td>https://blog.davidmoll.net/blog/2024-04-21-The-worst-password-field-I-have-ever-seen/</td></tr><tr><td>A small collection of some great 404 pages</td><td>https://blog.davidmoll.net/blog/2024-04-04-A-small-collection-of-some-great-404-pages/</td></tr><tr><td>Track and display uptime of your blog</td><td>https://blog.davidmoll.net/blog/2024-01-21-Track-and-display-uptime-of-your-blog/</td></tr><!--END_SECTION:feed-->
-</table>
-</ul>
+_Automatically updated once per day via Github Actions_
+
+  <!--START_SECTION:feed-->
+
+<div id="gallery">
+  <div align="center">
+    <table width="75%">
+      <tr>
+        <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+            <a href="https://blog.davidmoll.net/blog/2024-07-23-Taking-a-closer-look-at-my-.gitconfig/"><img src="https://blog.davidmoll.net/assets/images/2024-07-23-Taking-a-closer-look-at-my-.gitconfig//cover.png" alt="Taking a closer look at my .gitconfig" /></a>
+            <p><b><a href="https://blog.davidmoll.net/blog/2024-07-23-Taking-a-closer-look-at-my-.gitconfig/">Taking a closer look at my .gitconfig</a></b></p>
+            <p>Dissecting my .gitconfig I use on all of my devices</p>
+            <img src="https://img.shields.io/badge/posts-blue?style=flat-square" alt="posts" />  <img src="https://img.shields.io/badge/development-blue?style=flat-square" alt="development" />  <img src="https://img.shields.io/badge/git-blue?style=flat-square" alt="git" />  
+          </td><td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+            <a href="https://blog.davidmoll.net/blog/2024-04-30-How-to-optimize-your-website-for-print/"><img src="https://blog.davidmoll.net/assets/images/2024-04-30-How-to-optimize-your-website-for-print//cover.png" alt="How to optimize your website for print" /></a>
+            <p><b><a href="https://blog.davidmoll.net/blog/2024-04-30-How-to-optimize-your-website-for-print/">How to optimize your website for print</a></b></p>
+            <p>Neat little tricks on how to make your website looking better for print</p>
+            <img src="https://img.shields.io/badge/posts-blue?style=flat-square" alt="posts" />  <img src="https://img.shields.io/badge/web_development-blue?style=flat-square" alt="web-development" />  
+          </td><td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+            <a href="https://blog.davidmoll.net/blog/2024-04-21-The-worst-password-field-I-have-ever-seen/"><img src="https://blog.davidmoll.net/assets/images/2024-04-21-The-worst-password-field-I-have-ever-seen//cover.png" alt="The worst password-field I have ever seen" /></a>
+            <p><b><a href="https://blog.davidmoll.net/blog/2024-04-21-The-worst-password-field-I-have-ever-seen/">The worst password-field I have ever seen</a></b></p>
+            <p>how a very badly configured password-field damaged my user-experience</p>
+            <img src="https://img.shields.io/badge/posts-blue?style=flat-square" alt="posts" />  <img src="https://img.shields.io/badge/web_development-blue?style=flat-square" alt="web-development" />  
+          </td><td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+            <a href="https://blog.davidmoll.net/blog/2024-04-04-A-small-collection-of-some-great-404-pages/"><img src="https://blog.davidmoll.net/assets/images/2024-04-04-A-small-collection-of-some-great-404-pages//cover.png" alt="A small collection of some great 404 pages" /></a>
+            <p><b><a href="https://blog.davidmoll.net/blog/2024-04-04-A-small-collection-of-some-great-404-pages/">A small collection of some great 404 pages</a></b></p>
+            <p>A list of great examples of entertaining and unique 404-pages</p>
+            <img src="https://img.shields.io/badge/posts-blue?style=flat-square" alt="posts" />  
+          </td>
+      </tr>
+      <tr>
+      </tr>
+    </table>
+  </div>
+</div>
+<!--END_SECTION:feed-->
