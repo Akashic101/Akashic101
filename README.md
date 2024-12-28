@@ -54,6 +54,12 @@ I'm David Moll, a frontend-engineer UI/UX and content-creator from <img src="./g
             <td><a href="https://github.com/akashic101/blog">https://github.com/akashic101/blog</a></td>
             <td><img src="graphics/eleventy.svg"> <img src="graphics/markdown.svg"> <img src="graphics/nunjucks.svg"> <img src="graphics/html5.svg"> <img src="graphics/css3.svg"> <img src="graphics/git.svg"> <img src="graphics/rss.svg"> <img src="graphics/ubuntu.svg"> <img src="graphics/cloudflaretunnels.svg"> <img src="graphics/vscode.svg"></td>
         </tr>
+         <tr>
+            <td>Portfolio</td>
+            <td><a href="https://davidmoll.net">David Moll's Portfolio</a></td>
+            <td><a href="https://github.com/akashic101/portfolio">https://github.com/akashic101/portfolio</a></td>
+            <td><img src="graphics/eleventy.svg"> <img src="graphics/markdown.svg"> <img src="graphics/nunjucks.svg"> <img src="graphics/html5.svg"> <img src="graphics/css3.svg"> <img src="graphics/git.svg"> <img src="graphics/ubuntu.svg"> <img src="graphics/cloudflaretunnels.svg"> <img src="graphics/vscode.svg"></td>
+        </tr>
     </tbody>
 </table>
 
