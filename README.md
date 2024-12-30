@@ -95,6 +95,16 @@ _Automatically updated once per day via Github Actions_
     <table width="75%">
       <tr>
         <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+            <a href="https://blog.davidmoll.net/blog/2024-12-29-Styling-an-RSS-Feed-using-XSL/"><img src="https://blog.davidmoll.net/assets/images/2024-12-29-Styling-an-RSS-Feed-using-XSL//cover.png" alt="Styling an RSS Feed using XSL" /></a>
+            <p><b><a href="https://blog.davidmoll.net/blog/2024-12-29-Styling-an-RSS-Feed-using-XSL/">Styling an RSS Feed using XSL</a></b></p>
+            <p>Making my RSS-Feed prettier to look at</p>
+            <img src="https://img.shields.io/badge/posts-blue?style=flat-square" alt="posts" />  <img src="https://img.shields.io/badge/RSS-blue?style=flat-square" alt="RSS" />  <img src="https://img.shields.io/badge/web-development-blue?style=flat-square" alt="web-development" />  
+          </td><td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+            <a href="https://blog.davidmoll.net/blog/2024-11-09-Analyzing-the-results-of-the-8th-Martinslauf-Paderborn-using-Python/"><img src="https://blog.davidmoll.net/assets/images/2024-11-09-Analyzing-the-results-of-the-8th-Martinslauf-Paderborn-using-Python//cover.png" alt="Analyzing the results of the 8th Martinslauf Paderborn using Python" /></a>
+            <p><b><a href="https://blog.davidmoll.net/blog/2024-11-09-Analyzing-the-results-of-the-8th-Martinslauf-Paderborn-using-Python/">Analyzing the results of the 8th Martinslauf Paderborn using Python</a></b></p>
+            <p>Taking a closer look at the results of 10km I participated in using Python and fancy plots</p>
+            <img src="https://img.shields.io/badge/posts-blue?style=flat-square" alt="posts" />  <img src="https://img.shields.io/badge/development-blue?style=flat-square" alt="development" />  <img src="https://img.shields.io/badge/python-blue?style=flat-square" alt="python" />  <img src="https://img.shields.io/badge/data-visualization-blue?style=flat-square" alt="data-visualization" />  
+          </td><td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
             <a href="https://blog.davidmoll.net/blog/2024-07-23-Taking-a-closer-look-at-my-.gitconfig/"><img src="https://blog.davidmoll.net/assets/images/2024-07-23-Taking-a-closer-look-at-my-.gitconfig//cover.png" alt="Taking a closer look at my .gitconfig" /></a>
             <p><b><a href="https://blog.davidmoll.net/blog/2024-07-23-Taking-a-closer-look-at-my-.gitconfig/">Taking a closer look at my .gitconfig</a></b></p>
             <p>Dissecting my .gitconfig I use on all of my devices</p>
@@ -104,16 +114,6 @@ _Automatically updated once per day via Github Actions_
             <p><b><a href="https://blog.davidmoll.net/blog/2024-04-30-How-to-optimize-your-website-for-print/">How to optimize your website for print</a></b></p>
             <p>Neat little tricks on how to make your website looking better for print</p>
             <img src="https://img.shields.io/badge/posts-blue?style=flat-square" alt="posts" />  <img src="https://img.shields.io/badge/web-development-blue?style=flat-square" alt="web-development" />  
-          </td><td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-            <a href="https://blog.davidmoll.net/blog/2024-04-21-The-worst-password-field-I-have-ever-seen/"><img src="https://blog.davidmoll.net/assets/images/2024-04-21-The-worst-password-field-I-have-ever-seen//cover.png" alt="The worst password-field I have ever seen" /></a>
-            <p><b><a href="https://blog.davidmoll.net/blog/2024-04-21-The-worst-password-field-I-have-ever-seen/">The worst password-field I have ever seen</a></b></p>
-            <p>how a very badly configured password-field damaged my user-experience</p>
-            <img src="https://img.shields.io/badge/posts-blue?style=flat-square" alt="posts" />  <img src="https://img.shields.io/badge/web-development-blue?style=flat-square" alt="web-development" />  
-          </td><td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-            <a href="https://blog.davidmoll.net/blog/2024-04-04-A-small-collection-of-some-great-404-pages/"><img src="https://blog.davidmoll.net/assets/images/2024-04-04-A-small-collection-of-some-great-404-pages//cover.png" alt="A small collection of some great 404 pages" /></a>
-            <p><b><a href="https://blog.davidmoll.net/blog/2024-04-04-A-small-collection-of-some-great-404-pages/">A small collection of some great 404 pages</a></b></p>
-            <p>A list of great examples of entertaining and unique 404-pages</p>
-            <img src="https://img.shields.io/badge/posts-blue?style=flat-square" alt="posts" />  
           </td>
       </tr>
       <tr>
